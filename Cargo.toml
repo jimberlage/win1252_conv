@@ -1,0 +1,6 @@
+[package]
+name = "win1252_conv"
+version = "0.1.0"
+authors = ["Jim Berlage <jberlage@mdsol.com>"]
+
+[dependencies]
